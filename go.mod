@@ -16,10 +16,10 @@ require (
 	go.uber.org/zap v1.27.0
 	golang.org/x/sync v0.16.0
 	gopkg.in/yaml.v3 v3.0.1
-	k8s.io/api v0.33.2
+	k8s.io/api v0.33.3
 	k8s.io/apiextensions-apiserver v0.29.3
-	k8s.io/apimachinery v0.33.2
-	k8s.io/client-go v0.33.2
+	k8s.io/apimachinery v0.33.3
+	k8s.io/client-go v0.33.3
 )
 
 require (
