@@ -1,6 +1,6 @@
 module github.com/kubeservice-stack/echo
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/KimMachineGun/automemlimit v0.7.4
@@ -14,7 +14,7 @@ require (
 	github.com/swaggo/swag v1.16.6
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/sync v0.17.0
+	golang.org/x/sync v0.20.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.33.4
 	k8s.io/apiextensions-apiserver v0.29.3
